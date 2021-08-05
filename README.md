@@ -1,4 +1,7 @@
 # CrowdBC
+
+The source code of CrowdBC is released. Please see CrowdBC.rar, which is a java-based project. Also, we release the smart contracts.
+
 We provide about the User Giude of CrowdBC with english version and chinese version.
 
 1. CrowdBC User Guide(English version)
